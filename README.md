@@ -1,1 +1,2 @@
-# Covid_Voice_Assistant
+# Coronavirus-Voice-Assistant
+The project is in Python using Python modules like pywin32, pyaudio, pyttsx3, requests, json, SpeechRecognition, threading and time. The objective of the project is to scrap data from a website and convert it to API which can be used in the program to get the total number of cases, deaths in the world and country related data regarding total cases, deaths, recovered, active ones etc. Also an option has been provided to update the data daily using "update" command. The user can give commands to the program asking the covid-19 details which is first recorded then converted to text by the program then the program will giving the voice response for the particular question.
